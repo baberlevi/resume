@@ -1,12 +1,29 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Leadership
+- skill: Technical leadership
+  description: I have 14 years of experience as a technical manager. I take a hands-on approach, and like to learn, plan, and execute along with my team.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# Communication
+- skill: Communication
+  description: I have a unique ability to communicate well with people with a wide range of backgrounds and technical skills.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Technical skills
+- skill: System Administration
+  description: Linux, Windows, K8S, AWS, GCE, VMWare, Active Directory
+
+- skill: Database Administration
+  description: MariaDB / MySQL, Postgres, Oracle, Microsoft SQL Server
+
+- skill: Programming / Scripting / Automation
+  description: Ansible, Python, Ruby, PHP, C++, C, Perl, Javascript, Java, HTML/CSS
+
+- skill: Other technical skills
+  description: Networking, NFS, Kerberos, Apache, NGINX, Docker, Git, Atlassian suite, ServiceNow
+
+# RHCE
+- skill: Red Hat Certified Engineer
+  url: https://www.redhat.com/rhtapps/certification/badge/verify/D6LTLLUVIAKY2QIEJCT3R4JAWQAEQU3CUPSQX2KSDXT6RW46LQ3VFS7LTHTMYXYXRZARNID6YKBDE4U5NQYTCNA62RUWOCM34WWBUYQ%3D/
+
+# RHCSA
+- skill: Red Hat Certified System Administrator
+  url: https://www.redhat.com/rhtapps/certification/badge/verify/D6LTLLUVIAKY2QIEJCT3R4JAWQAEQU3CUPSQX2KSDXT6RW46LQ37ULE25V3KCXMMFRIX6PMBNQZGA4U5NQYTCNA62RUWOCM34WWBUYQ%3D/ 

@@ -37,5 +37,15 @@
   <li><strong>Website</strong>: {{ site.resume_social_links.resume_website_url }}</li>
   {% endif %}
 
+  <!-- Google Scholar link -->
+  {% if site.resume_social_links.resume_googlescholar_url %}
+  <li><strong>Google Scholar</strong>: {{ site.resume_social_links.resume_googlescholar_url }}</li>
+  {% endif %}
+
+  <!-- Orcid link -->
+  {% if site.resume_social_links.resume_orcid_url %}
+  <li><strong>Orcid</strong>: {{ site.resume_social_links.resume_orcid_url }}</li>
+  {% endif %}
+
 </ul>
 {% endif %}

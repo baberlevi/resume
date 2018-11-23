@@ -1,19 +1,30 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Research IT Director
+- company: Iowa State University
+  position: Research IT Director (Manager IT I)
+  duration: Jan, 2016 &mdash; Present
+  summary:  Lead a team of analysts who specialize in research computing support.  Work involves sysadmin, storage, consulting, and development. Responsible for dozens of high performance servers, and petabytes of storage. Strategic planning for Research Computing initiatives within the LAS college and for the University.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Regional IT Manager - LAS North
+- company: Iowa State University
+  position: Regional IT Manager - LAS North (Manager IT I)
+  duration:  Aug, 2014 &mdash; Jan, 2016
+  summary: Led a team of approximately 10 System Support Specialists and System Analysts supporting 11 different departments throughout the college.  Beyond management duties, also provided sys admin support to computer science department.
 
+# Statement Systems Integration - DevOps Manager
+- company: Citigroup
+  position: Statements DevOps Manager (Operations Support Sr. Manager - VP)
+  duration:   Nov, 2010  &mdash; Aug, 2014
+  summary: Led a team of 8 developers, sys admins, and MIS staff. Engineered an extremely large, complex project using state of the art technology resulting in an annual expense savings of $34MM. Responsible for development and sys admin needs for a department of 600 users, 200+ servers running Linux, UNIX, and Windows.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Payments - Technology Manager
+- company: Citigroup
+  position: Payments Technology Manager (VP)
+  duration:   Aug, 2006  &mdash; Nov, 2010
+  summary: Led a team of 2 technical analysts, led ACH & ICL implementations.  Reduced annual expenses by $10MM.
+
+# Payments - MIS Manager
+- company: Citigroup
+  position: Payments MIS Manager (AVP)
+  duration:   Aug, 2004  &mdash; Aug, 2006
+  summary: Managed a team of 10 across 4 nationwide offices, transitioned from Excel to LAMP based reporting.
