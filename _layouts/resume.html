@@ -135,6 +135,26 @@
       <!-- end Skills -->
       {% endif %}
 
+      {% if site.resume_section_publications %}
+      <!-- begin Publications -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Publications</h2>
+        </header>
+
+        <div class="resume-item">
+          <ul class="resume-item-list">
+            {% for publication in site.data.publications %}
+            <li>{% if publication.url %}<a href="{{ publication.url }}" itemprop="url">{{ publication.title }}</a>{% else %}{{ publication.title }}{% endif %}</li>
+            {% endfor %}
+          </ul>
+        </div>
+
+      </section>
+      <!-- end Interests -->
+      {% endif %}
+
       {% if site.resume_section_recognition %}
       <!-- begin Recognition -->
       <section class="content-section">

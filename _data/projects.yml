@@ -8,7 +8,7 @@
   url: "https://spack.io"
   description: Spack is an open source package management tool optimized for HPC systems.  I've led the adoption at IA State, and have become a contributor of many packages, and a few core features.
 
-# Singularity
+# Other open source work
 - project: Singularity, Drupal, Tripal, Galaxy, Gluster
   role: Contributor
   duration: 2017 &mdash; Present
