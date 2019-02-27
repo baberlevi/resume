@@ -175,6 +175,22 @@
       <!-- end Recognition -->
       {% endif %}
 
+      {% if site.resume_section_instruction %}
+      <!-- begin Instruction -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Instructional Experience</h2>
+        </header>
+
+        {% site.data.instruction %}
+
+        {% endfor %}
+
+      </section>
+      <!-- end Instruction -->
+      {% endif %}
+
       {% if site.resume_section_associations %}
       <!-- begin Associations -->
       <section class="content-section">

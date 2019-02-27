@@ -15,7 +15,7 @@
   description: MariaDB / MySQL, Postgres, Oracle, Microsoft SQL Server
 
 - skill: Programming / Scripting / Automation
-  description: Ansible, Python, Ruby, PHP, C++, C, Perl, Javascript, Java, HTML/CSS
+  description: Ansible, Python, Ruby, PHP, C++, C, OpenMP, Perl, Javascript, Java, HTML/CSS
 
 - skill: Other technical skills
   description: Networking, NFS, Kerberos, Apache, NGINX, Docker, Git, Atlassian suite, ServiceNow
