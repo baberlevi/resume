@@ -1,6 +1,11 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
+- organization: XSEDE
+  role: Campus Champion
+  year: 2017 &mdash; Current
+  url: https://www.xsede.org/web/site/community-engagement/campus-champions/current
+
 - organization: Web Dev Club at ISU
   role: Advisor
   year: 2015 &mdash; Current
