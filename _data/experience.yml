@@ -1,9 +1,9 @@
 # Jobs
 # Research IT Director
 - company: Iowa State University
-  position: Research IT Director (Manager IT I)
+  position: Infrastructure and Research IT Services Director (Manager IT I)
   duration: Jan, 2016 &mdash; Present
-  summary:  Lead a team of analysts who specialize in research computing support.  Work involves sysadmin, storage, consulting, and development. Responsible for dozens of high performance servers, and petabytes of storage. Strategic planning for Research Computing initiatives within the LAS college and for the University.
+  summary:  Lead a team of approx 7 systems analysts who specialize in academic and research computing architecture and support.  Work involves strategic planning, sysadmin, storage, consulting, and development. Responsible for dozens of high performance physical servers, a high bandwitch low latency network, hundreds of virtual machines, hypervisor and container orchestration, and petabytes of storage. Strategic planning for Infrastructure and Research Computing initiatives within the LAS college and for the University.
 
 # Regional IT Manager - LAS North
 - company: Iowa State University
@@ -15,16 +15,16 @@
 - company: Citigroup
   position: Statements DevOps Manager (Operations Support Sr. Manager - VP)
   duration:   Nov, 2010  &mdash; Aug, 2014
-  summary: Led a team of 8 developers, sys admins, and MIS staff. Engineered an extremely large, complex project using state of the art technology resulting in an annual expense savings of $34MM. Responsible for development and sys admin needs for a department of 600 users, 200+ servers running Linux, UNIX, and Windows.
+  summary: Led a team of 8 developers, sys admins, and MIS staff. Engineered an extremely large, complex project using state of the art technology resulting in an annual expense savings of $34MM. Responsible for development and sys admin needs for a department of 600 users, 200+ servers running Linux, UNIX, and Windows. Very involved in business operational processes in addition to technical management role.
 
 # Payments - Technology Manager
 - company: Citigroup
   position: Payments Technology Manager (VP)
   duration:   Aug, 2006  &mdash; Nov, 2010
-  summary: Led a team of 2 technical analysts, led ACH & ICL implementations.  Reduced annual expenses by $10MM.
+  summary: Led a team of 2 technical analysts, led ACH & ICL (Check 21) implementations.  Reduced annual expenses by $10MM. Redesigned multiple business operational processes to keep up with changing technology.
 
 # Payments - MIS Manager
 - company: Citigroup
   position: Payments MIS Manager (AVP)
   duration:   Aug, 2004  &mdash; Aug, 2006
-  summary: Managed a team of 10 across 4 nationwide offices, transitioned from Excel to LAMP based reporting.
+  summary: Managed a team of 10 across 4 nationwide offices, engineered transitioned from Excel to web (LAMP stack) based reporting.

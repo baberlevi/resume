@@ -1,19 +1,21 @@
-# Instructional Experience
+#Instruction
+- training: Training Experience Overview
+  description: I have led many training sessions in my career, starting with
+    teaching adult education courses on computer use while in
+    highschool, training on new processes and procedures while
+    at Citigroup, and most recently I have led Linux and HPC
+    related training sessions at Iowa State University, often
+    with 30 or more people.
+  link:
 
-## Training Sesssions
-I have led many training sessions in my career, starting with
-teaching adult education courses on computer use while in
-highschool, training on new processes and procedures while
-at Citigroup, and most recently I have led Linux and HPC
-related training sessions at Iowa State University, often
-with 30 or more people.
+- training: Research Computing Videos
+  description: Led the production of over 25 training videos which are published on YouTube
+  link: https://www.youtube.com/channel/UCAVg7ez3WUkCsF6g8euLyCA
 
-I have also started to become involved in the HPC carpentry
-project, and led the production of over 25 professional 
-quality training videos which are published on YouTube
-and available for users in our facility to help get started.
+- training: Research Computing Presentations
+  description: In person presentations given to faculty, graduate students, and IT professionals
+  link: https://github.com/ResearchIT/RIT-Presentations
 
-## Training related material:
-* https://researchit.las.iastate.edu/video
-* https://github.com/ResearchIT/RIT-Presentations
-* https://github.com/ResearchIT/Workshops
+- training: Research Computing Workshops
+  description: Led in person workshops for faculty and graduate students
+  link: https://github.com/ResearchIT/Workshops
