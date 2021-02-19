@@ -1,6 +1,6 @@
-FROM ruby:2.5
+FROM ruby:2.7.2
 
-RUN git clone https://github.com/jglovier/resume-template.git resume
+#RUN git clone https://github.com/baberlevi/resume.git resume
 WORKDIR resume
 RUN bundle install
 EXPOSE 4000
