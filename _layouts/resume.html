@@ -96,6 +96,22 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_skills %}
+      <!-- begin Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Skills</h2>
+        </header>
+        {% for skill in site.data.skills %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <p class="resume-item-copy">{{ skill.description }}</p>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Skills -->
+      {% endif %}
 
       {% if site.resume_section_projects %}
       <!-- begin Projects -->
@@ -117,24 +133,6 @@
       <!-- end Projects -->
       {% endif %}
 
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2>Skills</h2>
-        </header>
-        {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
-        </div>
-        {% endfor %}
-
-      </section>
-      <!-- end Skills -->
-      {% endif %}
-
       {% if site.resume_section_publications %}
       <!-- begin Publications -->
       <section class="content-section">
@@ -152,7 +150,7 @@
         </div>
 
       </section>
-      <!-- end Interests -->
+      <!-- end Publications -->
       {% endif %}
 
       {% if site.resume_section_recognition %}
@@ -183,9 +181,13 @@
           <h2>Instructional Experience</h2>
         </header>
 
-        {% site.data.instruction %}
-
+        {% for instruction in site.data.instruction %}
+        <div class="resume-item">
+          <h3 class="resume-item-title" itemprop="instruction">{% if instruction.link %}<a href="{{ instruction.link }}" itemprop="url">{{ instruction.training }}</a>{% else %}{{ instruction.training }}{% endif %}</h3>
+          <p class="resume-item-copy">{{ instruction.description }}</p>
+        </div>
         {% endfor %}
+
 
       </section>
       <!-- end Instruction -->
