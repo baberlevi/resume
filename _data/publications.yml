@@ -1,6 +1,21 @@
 # Publications
 
+- title: "Community Collections: A Framework for Openly Sharing Software Stacks Across Research Computing Centers Using Singularity and Lmod"
+  publication: "PEARC '19: Proceedings of the Practice and Experience in Advanced Research Computing on Rise of the Machines (learning)"
+  date: 2019-11
+  url: https://doi.org/10.1145/3332186.3332199
+
 - title: "RNAStructuromeDB: A genome-wide database for RNA structural inference"
   publication: Scientific Reports
   date: 2017-12
   url: https://doi.org/10.1038/s41598-017-17510-y
+
+- title: "Mapping the RNA structural landscape of viral genomes"
+  publication: Methods
+  date: 2019-11
+  url: https://doi.org/10.1016/j.ymeth.2019.11.001
+
+- title: "SCNBase: A genomics portal for the soybean cyst nematode (Heterodera glycines)"
+  publication: Database
+  date: 2019-11
+  url: https://doi.org/10.1093/database/baz111
