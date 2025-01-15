@@ -9,7 +9,7 @@
   description: Spack is an open source package management tool optimized for HPC systems.  I led the adoption at IA State, and have became a contributor of many packages, and a few core features.
 
 # Other open source work
-- project: Singularity, Drupal, Tripal, Galaxy, Gluster
+- project: Singularity, Drupal, Tripal, Galaxy, Gluster, OpenZFS, etc.
   role: Contributor
   duration: 2017 &mdash; Present
   # url: "#"
