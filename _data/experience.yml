@@ -1,8 +1,14 @@
 # Jobs
+# IT Director
+- company: Boone Community School District
+  position: IT Director
+  duration: Jun, 2021 &mdash; Present
+  summary: Responsible for all technology in the school district, including: firewall, networking, endpoint management, servers, cybersecurity, audio/visual, classroom dsiplays, websites, helpdesk, printing, ip cameras, door controls, etc. Lead a team of 3 help desk technicians. 
+
 # Research IT Director
 - company: Iowa State University
   position: Research IT Director (Manager IT I)
-  duration: Jan, 2016 &mdash; Present
+  duration: Jan, 2016 &mdash; Jun, 2021
   summary:  Lead a team of analysts who specialize in research computing support.  Work involves sysadmin, storage, consulting, and development. Responsible for dozens of high performance servers, and petabytes of storage. Strategic planning for Research Computing initiatives within the LAS college and for the University.
 
 # Regional IT Manager - LAS North

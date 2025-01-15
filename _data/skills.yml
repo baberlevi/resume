@@ -1,7 +1,7 @@
 # Skills
 # Leadership
 - skill: Technical leadership
-  description: I have 14 years of experience as a technical manager. I take a hands-on approach, and like to learn, plan, and execute along with my team.
+  description: I have 20 years of experience as a technical manager. I take a hands-on approach, and like to learn, plan, and execute along with my team.
 
 # Communication
 - skill: Communication
@@ -9,16 +9,16 @@
 
 # Technical skills
 - skill: System Administration
-  description: Linux, Windows, K8S, AWS, GCE, VMWare, Active Directory
+  description: Linux, Windows, K8S, AWS, GCE, Proxmox, VMWare, Active Directory, Google Workspace
 
 - skill: Database Administration
   description: MariaDB / MySQL, Postgres, Oracle, Microsoft SQL Server
 
 - skill: Programming / Scripting / Automation
-  description: Ansible, Python, Ruby, PHP, C++, C, Perl, Javascript, Java, HTML/CSS
+  description: Bash, Ansible, Python, Ruby, PHP, C++, C, Perl, Javascript, Java, HTML/CSS
 
 - skill: Other technical skills
-  description: Networking, NFS, Kerberos, Apache, NGINX, Docker, Git, Atlassian suite, ServiceNow
+  description: Networking, NFS, Kerberos, Apache, NGINX, Docker, Git, RT, Atlassian suite, ServiceNow
 
 # RHCE
 - skill: Red Hat Certified Engineer
